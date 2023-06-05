@@ -1,2 +1,2 @@
 # SpellMagic
-This app is designed to empower dyslexic children by helping them improve their reading and writing skills through their own self-written stories.
+This project aims to empower dyslexic children to correct their self-written texts and to derive study material (literacy, spelling, foreign langauge learning) from them.
