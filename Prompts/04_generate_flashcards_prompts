@@ -1,0 +1,3 @@
+**ChatGPT Prompts for Generating Anki Cards:**
+* Based on this text: Generate a table with three columns. The first column contains stopwords, the second simple words, the third advanced words. Sort each word into one of the three columns.
+* Based on this table: Generate code to create three piles of flashcards within anki web. Print the word in front and insert a type-in field in the back. The word printed on the front of the card has to be typed in in the back. 
