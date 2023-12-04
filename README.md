@@ -1,28 +1,23 @@
 # SpellMagic: LLM-Supported Assistive Technology for Dyslexic Students
 
-Status: This project is under construction and is expected to evolve over time as I continue to advocate as a parent of dyslexic children.
+Introduction
+Welcome to SpellMagic, a project designed to empower dyslexic students and their parents. The project's goal is to make text comprehension and foreign language learning accessible and engaging. By leveraging advanced technologies such as Optical Character Recognition (OCR), text-to-speech, speech-to-text, and Natural Language Processing (NLP), SpellMagic creates an inclusive digital workspace for learning and exploration. A special focus is put on digital tools which integrate well with traditional study materials such as magnetic letters, flashcards or colored paper and pens.
 
-This project aims to empower dyslexic school children and their parents. The goal is to make text comprehension and foreign language learning accessible to struggling readers. The primary target group are parents, as they are often their children's main advocates for accessibility. The goal is to equip them with tools to set up an accessible workspace together with their children, their teachers and therapists.
+Target Audience
+This project is primarily aimed at parents of dyslexic children, equipping them with the necessary tools to collaborate effectively with their children, teachers, and therapists to set up an accessible learning environment.
 
-From a technical standpoint, this project aims to create an accessible digital work environment, which integrates both mobile devices and comprehensive software applications. This workspace will include features like Optical Character Recognition (OCR), text-to-speech, speech-to-text technologies, and text processing supported by Natural Language Processing (NLP) and Natural Language Generation (NLG) technologies. This can include features such as Part-of-Speech (POS) tagging, text summarization and paraphrasing, as well as translation capabilities.
+During the development phase, the project will explore various tools and features not limited to the ones listed below:
 
-An emphasis will be placed on preventing cognitive overload of parents and teachers when they're setting up customized assignments. To aid this process, data transformations and code generation through Large Language Models (LLMs) will be implemented in this project. A practical example would be the extraction of vocabulary from a text and its transformation into custom digital flashcards.
+Features
+OCR, Speech-to-Text, and Text-to-Speech: Integrating with Apple, Windows, and Google Drive functionalities.
+Immersive Reader and Reading Progress: Utilized within Microsoft Word, Edge, OneNote, and Microsoft Teams.
+Microsoft OneNote: For web clipping, note-taking, and text structuring.
+AnkiCards: Custom digital flashcard creation for vocabulary learning.
+MaxQDA: Qualitative analysis of text, audio, and video files.
+Google Colaboratory: Simple Python NLP scripts and API calls to Large Language Models (LLMs).
+Streamlit App: Custom application development for interactive learning.
 
-This project does not aim to substitute therapy but to supplement school work by providing improved access to text comprehension. The proposed digital work environment will be built on traditional tools such as magnetic letters, paper flashcards, colored pens, and card games. These tools will be seamlessly integrated into this workspace to cultivate an understanding of how computers process text and how to best utilize them for support.
-
-The benefits of this accessible digital workspace are not limited to dyslexic children, as the outcomes of this project can also be beneficial for teachers, therapists, and parents who are not native speakers of their child's language of instruction. It can also be beneficial to adults who need to adjust quickly to a workspace in a country whose language they do not speak.
-
-During the development phase, the project will explore various tools and features not limited to the ones listed below. The project will also explore how these tools could best be used in conjunction with each other:
-
-* OCR, speech-to-text and text-to-speech functions within Apple and Windows devices
-* OCR, speech-to-text and text-to-speech functions within Google Drive
-* Immersive Reader in Microsoft Word, Edge and OneNote
-* Reading Progress feature in Microsoft Teams
-* Microsoft OneNote for web clipping, note and text structuring, text analysis
-* AnkiCards for custom flashcard creation
-* MaxQDA for web clipping as well as qualitative analysis of text, audio, and video files
-* Google Colaboratory for crafting simple Python NLP scripts and making API calls to LLMs
-* Streamlit App for the development of custom applications
-
+Language Learning Presentation Project
+In addition to the core functionalities of SpellMagic, the [AI powered Language Learning Project](https://medium.com/@tanja_wolf/ai-powered-language-learning-fusing-tech-with-cultural-immersion-87c828353604) focuses on transforming the way students interact with foreign languages. Utilizing a Python script, song lyrics are transformed into a multisensory language learning experience, presented through PowerPoint slides. This unique approach incorporates the NLP Python library spaCy alongside APIs like DeepL, GPT-4, and Narakeet, to not only translate but also provide context and cultural insights into the learning materials. The project aims to make language learning more accessible and immersive. 
 
 This project is licensed under the Apache License, Version 2.0. See LICENSE for more details.
