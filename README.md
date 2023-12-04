@@ -20,4 +20,3 @@ Streamlit App: Custom application development for interactive learning.
 Language Learning Presentation Project
 In addition to the core functionalities of SpellMagic, the [AI powered Language Learning Project](https://medium.com/@tanja_wolf/ai-powered-language-learning-fusing-tech-with-cultural-immersion-87c828353604) focuses on transforming the way students interact with foreign languages. Utilizing a Python script, song lyrics are transformed into a multisensory language learning experience, presented through PowerPoint slides. This unique approach incorporates the NLP Python library spaCy alongside APIs like DeepL, GPT-4, and Narakeet, to not only translate but also provide context and cultural insights into the learning materials. The project aims to make language learning more accessible and immersive. 
 
-This project is licensed under the Apache License, Version 2.0. See LICENSE for more details.
